@@ -1,0 +1,11 @@
+.showreel {
+  display: inline-block;
+  width: 30%;
+  padding: 20px;
+}
+
+.images {
+  margin: 1%;
+  width: 100%;
+  vertical-align: top;
+}
